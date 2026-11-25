@@ -12,7 +12,7 @@ The project aims to provide a centralized and secure system for managing student
 - Admission Number: 2528604
 - Enrollment Number: 2502320237
 - Section: D
-- University: Samskriti University
+- University: Sanskriti University
 
 🛠️ Technology Stack
 
