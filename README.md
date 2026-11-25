@@ -7,7 +7,7 @@ Student Details
 
 Field| Details
 Name| GOWTHAM GOWD
-University| Samskriti University
+University| Sanskriti University
 Admission Number| 2528604
 Enrollment Number| 2502320237
 Section| D
